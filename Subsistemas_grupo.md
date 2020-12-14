@@ -37,3 +37,15 @@
 - Asignar pedido a un trabajador.
 - Cancelar asignación de un pedido.
 - Mostar pedidos ralizados un patrocinador en una edición.
+
+
+
+## Descripción de la práctica (07-10)
+
+- Análisis conjunto de datos y funciones, guiado por las funciones
+  - A partir de los requisitos funcionales obtenemos los datos y requisitos de datos necesarios para cada función
+- Por cada uno de los requisitos funcionales:
+  - Agente externo que realiza la acción
+  - Requisitos de datos de entrada
+  - Datos de consulta, inserción, modificación, eliminado...
+  - Datos de salida? no tiene por qué tener
